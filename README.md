@@ -1,4 +1,6 @@
-# xixvi (pronounced "6-V")  /sɪks/  /viː/
+# xixvi
+
+### (pronounced "6-V")  /sɪks/  /viː/
 
 Filter viromes: xix (filter in mayan) + vi (virome) 
 
@@ -17,9 +19,9 @@ This is a bioinformatics pipeline to clean viromes for accurate analysis
 7. Denovo assembly 
 8. Fractional abundance of each contig in the dataset
 
-##Usage xixvi.pl [path to folder containing raw viromes] [path to resutls folder] 
+### Usage xixvi.pl [path to folder containing raw viromes] [path to resutls folder] 
 
-##Outputs
+### Outputs
 table with numer of filtered sequences
 stats about polished sequences
 
